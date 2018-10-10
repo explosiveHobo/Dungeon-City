@@ -1,0 +1,86 @@
+Item IDs
+
+Iron Chestplate ID: 1
+Bronze Chestplate ID: 2
+Leather Chestplate ID: 3
+Steel Chestplate ID: 4
+Paladin Chestplate ID: 5
+Wool Sweater ID: 6
+Tattered Shirt ID: 7
+Leather Boots ID: 8
+Hunter's Boots ID: 9
+Steel-Toed Boots ID: 10
+Steel Boots ID: 11
+Iron Boots ID: 12
+Ninja Sneakers ID: 13
+Rubber Boots ID: 14
+Gold Medallion ID: 15
+Silver Medallion ID: 16
+Copper Medallion ID: 17
+Sapphire Amulet ID: 18
+Ruby Amulet ID: 19
+Sapphire Necklace ID: 20
+Snowflake Necklace ID: 21
+Angelic Necklace ID: 22
+Vial Necklace ID: 23
+Toothy Necklace ID: 24
+Holy Cross ID: 25
+Steel Band ID: 26
+Iron Band ID: 27
+Leather Cap ID: 28
+Iron Helmet ID: 29
+Paladin Helmet ID: 30
+Mage Cap ID: 31
+Wizard Cap ID: 32
+Boney Iron Shield ID: 33
+Paladin Shield ID: 34
+Royal Shield ID: 35
+Steel Buckler ID: 36
+Iron Buckler ID: 37
+Iron Kiteshield ID: 38
+Reflective Shield ID: 39
+Demonic Kiteshield ID: 40
+Wooden Buckler ID: 41
+Reinforced Buckler ID: 42
+Wooden Kiteshield ID: 43
+Book ID: 44
+Empty Bottle ID: 45
+Bone ID: 46
+Banana ID: 47
+Bread ID: 48
+Carrot ID: 49
+Cheese Wedge ID: 50
+Cherry ID: 51
+Grapes ID: 52
+Green Pepper ID: 53
+Lemon ID: 54
+Cooked Steak ID: 55
+Blackberry ID: 56
+Mushroom ID: 57
+Pie Slice ID: 58
+Pineapple ID: 59
+Radish ID: 60
+Raw Steak ID: 61
+Red Pepper ID: 62
+Strawberry ID: 63
+Watermelon Slice ID: 64
+Yellow Pepper ID: 65
+Coal ID: 66
+Stone ID: 67
+Iron Ore ID: 68
+Copper Ore ID: 69
+Sapphire Ore ID: 70
+Ruby Ore ID: 71
+Sapphire ID: 72
+Ruby ID: 73
+Wooden Club ID: 74
+Kapok Cudgel ID: 75
+Iron Shortsword ID: 76
+Shank ID: 77
+Iron Glaive ID: 78
+Carving Axe ID: 79
+Hammer ID: 80
+Kunai ID: 81
+White Feather ID: 82
+Red Feather ID: 83
+Mirror ID: 84
