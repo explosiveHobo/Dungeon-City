@@ -6,4 +6,4 @@ The code will also be put up soon, once I tidy it up a bit (The runnable jar and
 
 For now, see below: turning off fog of war to view the whole dungeon
 
-![alt text][full_dungeon.gif]
+![Alt Text](full_dungeon.gif)
